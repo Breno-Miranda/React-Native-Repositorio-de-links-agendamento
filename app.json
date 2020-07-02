@@ -1,0 +1,12 @@
+{
+  "name": "repository",
+  "displayName": "repository",
+  "expo": {
+    "name": "repository",
+    "slug": "repository",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
